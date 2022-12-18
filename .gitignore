@@ -1,0 +1,4 @@
+*.xlsx
+*.ipynb
+etc_data
+.idea
